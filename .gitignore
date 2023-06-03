@@ -1,0 +1,5 @@
+/config/config.py
+.vscode
+.venv
+/systemmd
+__pycache__
