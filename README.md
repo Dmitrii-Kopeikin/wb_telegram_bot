@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Содержание</summary>
   <ol>
     <li>
       <a href="#about-the-project">О проекте</a>
